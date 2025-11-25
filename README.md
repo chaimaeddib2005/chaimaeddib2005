@@ -25,7 +25,10 @@ A sophisticated JavaFX application that visualizes and compares four fundamental
 
 **🛠️ Tech Stack:** Java, JavaFX, Graph Theory, Algorithm Design, Data Visualization
 
+### 🚀 [DevOps Project – Java JEE Application Deployment](https://github.com/chaimaeddib2005/devops-java-jee)
+Full CI/CD pipeline implementation using Jenkins, Docker, and Kubernetes with automated build/deployment processes.
 
+**Tech Stack:** Jenkins, Docker, Kubernetes, SonarQube, Java JEE
 
 ---
 
