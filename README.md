@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chaima EDDIB
 
-**Computer Science Engineering Student | Full-Stack Developer | Community Detection Researcher**
+**Computer Science Engineering Student minoring in AI and data science**
 
 ---
 
