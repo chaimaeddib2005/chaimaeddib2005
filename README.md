@@ -25,7 +25,7 @@ A sophisticated JavaFX application that visualizes and compares four fundamental
 
 **🛠️ Tech Stack:** Java, JavaFX, Graph Theory, Algorithm Design, Data Visualization
 
-[![View Project](https://img.shields.io/badge/View_Full_Project-Community_Detection_Visualizer-blue)](https://github.com/chaimaeddib2005/community-detection-visualizer)
+
 
 ---
 
@@ -83,13 +83,15 @@ Community Detection • Machine Learning
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![Chaima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaimaeddib2005&show_icons=true&theme=radical&hide_title=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaeddib2005&layout=compact&theme=radical&hide_title=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=chaimaeddib2005&theme=radical)
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaimaeddib2005&show_icons=true&theme=radical&hide_title=true&count_private=true)
+
+</div>
 
 ## 🏆 Notable Projects & Achievements
 
