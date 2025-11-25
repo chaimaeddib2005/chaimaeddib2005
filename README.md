@@ -83,15 +83,6 @@ Community Detection • Machine Learning
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=chaimaeddib2005&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaimaeddib2005&show_icons=true&theme=radical&hide_title=true&count_private=true)
-
-</div>
 
 ## 🏆 Notable Projects & Achievements
 
@@ -150,5 +141,3 @@ Community Detection • Machine Learning
 
 ---
 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=chaimaeddib2005&color=blueviolet)
