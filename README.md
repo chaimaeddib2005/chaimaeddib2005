@@ -85,20 +85,17 @@ A **production-grade CI/CD pipeline** for a Java Spring Boot application, demons
 ### 💻 Programming Languages
 Python • C • C++ • Java • JavaScript • HTML/CSS • SQL
 
-shell
-Copy code
+
 
 ### ⚙️ Frameworks & Technologies
 Vue.js • Nuxt.js • WordPress • JavaFX
 
-shell
-Copy code
+
 
 ### 🚀 DevOps & Tools
 Git • Jenkins • Docker • Kubernetes • SonarQube • Prometheus • Grafana
 
-shell
-Copy code
+
 
 ### 🧠 Core Expertise
 Data Structures • Algorithms • OOP
@@ -106,8 +103,7 @@ Graph Theory • Community Detection
 Machine Learning • Database Systems
 Web Development • DevOps
 
-yaml
-Copy code
+
 
 ---
 
