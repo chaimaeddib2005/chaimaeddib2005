@@ -9,6 +9,33 @@ I am an engineering student driven by a strong interest in designing **intellige
 
 ## Featured Projects
 
+### Concurrent Load-Balancing Reverse Proxy
+
+A **production-ready reverse proxy in Go** featuring intelligent load balancing, health monitoring, and dynamic backend management. This project demonstrates deep understanding of **distributed systems, concurrent programming, and network protocols**.
+
+**Core Features**
+
+* Multiple Load Balancing Strategies — Round-robin, weighted distribution, and least-connections
+* Sticky Sessions — Client IP-based session persistence with configurable TTL
+* SSL/TLS Support — Secure HTTPS connections with certificate management
+* Dynamic Backend Management — RESTful Admin API for runtime configuration
+* Automated Health Monitoring — Continuous backend availability checks
+* Graceful Shutdown — Clean termination of in-flight requests
+
+**Technical Highlights**
+
+* Thread-safe concurrent request handling using goroutines and mutexes
+* Atomic operations for connection tracking
+* Weighted round-robin algorithm with GCD optimization
+* Background health checker with configurable intervals (TCP/HTTP)
+* Zero-downtime backend updates via Admin API
+
+**Technologies:** Go, HTTP/HTTPS, Reverse Proxy Patterns, Concurrent Programming, RESTful APIs
+
+**GitHub:** [github.com/chaimaeddib2005/reverseproxy](https://github.com/chaimaeddib2005/reverseproxy)
+
+---
+
 ### Community Detection Algorithms Visualizer
 
 A **JavaFX-based application** that visualizes, compares, and analyzes community detection algorithms in complex networks. This project demonstrates advanced competencies in **graph theory, algorithm design, and interactive data visualization**.
