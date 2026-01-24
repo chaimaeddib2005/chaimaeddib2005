@@ -32,7 +32,7 @@ A **production-ready reverse proxy in Go** featuring intelligent load balancing,
 
 **Technologies:** Go, HTTP/HTTPS, Reverse Proxy Patterns, Concurrent Programming, RESTful APIs
 
-**GitHub:** [github.com/chaimaeddib2005/reverseproxy](https://github.com/chaimaeddib2005/reverseproxy)
+
 
 ---
 
