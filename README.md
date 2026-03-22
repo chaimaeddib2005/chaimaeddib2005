@@ -128,7 +128,11 @@ DigiGirlz Mentorship Program, UM6P — October 2024 to June 2025
 
 ### Frameworks & Technologies
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat\&logo=vuedotjs\&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat\&logo=nuxtdotjs\&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat\&logo=wordpress\&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=flat\&logo=java\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat\&logo=vuedotjs\&logoColor=white) 
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat\&logo=nuxtdotjs\&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat\&logo=wordpress\&logoColor=white) 
+![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=flat\&logo=java\&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
 
 ### DevOps & Tools
 
