@@ -87,6 +87,14 @@ Hassan II High School
 
 ## Professional Experience
 
+### Intern — Optimization & Reliability 
+
+Stellantis Feb. 2026 to May 2026
+
+* Development of surrogate models (Kriging / Gaussian Process Regression) to approximate complex cost functions
+* Implementation of Reliability-Based Design Optimization (RBDO) approaches and application of FORM for reliability constraint evaluation and reliability index (β) computation
+* Reduction of computational cost through surrogate models; analysis of dominant failure modes
+
 ### Web Development Intern
 
 Weblinking Sarl — June 2025 to July 2025
@@ -95,7 +103,7 @@ Weblinking Sarl — June 2025 to July 2025
 * Optimized MySQL database structures for scalability and performance
 * Designed responsive and user-centered interfaces
 
-### Webmaster
+### Vice Chair & Webmaster
 
 ACM Club, UM6P — July 2025 to Present
 
